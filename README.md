@@ -37,6 +37,6 @@ Analyzed Campaign, Engagement and Posts data using Excel to identify high-perfor
 ---
 
 ## 📬 Contact
-- **GitHub:** 
+- **GitHub:** https://github.com/sanikabalaji
 - **LinkedIn:** https://www.linkedin.com/in/sanika-prakash-121973175/
 - **Email:** sanikabalaji07@gmail.com
